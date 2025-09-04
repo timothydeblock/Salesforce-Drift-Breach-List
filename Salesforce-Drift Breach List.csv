@@ -1,3 +1,5 @@
+Generated with help from Gemini
+
 Company,Nature of Compromise
 Cloudflare,"Customer support data, including logs, tokens, and passwords that customers may have shared, should be considered compromised.1 Cloudflare rotated 104 of its own API tokens as a precaution"
 Palo Alto Networks,"The incident was limited to its Salesforce environment.2 The exfiltrated data was ""mostly business contact information, internal sales account and basic case data."
@@ -9,3 +11,4 @@ PagerDuty,The company's Salesforce instance was accessed. The available research
 Tenable,The company's Salesforce instance was affected. The available research notes do not specify the exact nature of the data compromised for this company.
 Proofpoint,The company's Salesforce instance was affected. The available research notes do not specify the exact nature of the data compromised for this company.
 Rubrik,The company's Salesforce instance was affected. The available research notes do not specify the exact nature of the data compromised for this company.
+

@@ -1,11 +1,12 @@
 Company,Nature of Compromise
-Cloudflare,"Customer support data, including logs, tokens, and passwords that customers may have shared, should be considered compromised.1 Cloudflare rotated 104 of its own API tokens as a precaution.1"
-Palo Alto Networks,"The incident was limited to its Salesforce environment.2 The exfiltrated data was ""mostly business contact information, internal sales account and basic case data"".1"
-Zscaler,"Unauthorized actors accessed the company's Salesforce instance, which was restricted to ""commonly available business contact details"" and some support case content.2"
-Tanium,"The threat actors had ""limited access"" to the company's Salesforce data, which was primarily common business contact information like names, business emails, and phone numbers.2"
-BeyondTrust,"Threat actors had ""limited access"" to their Salesforce data, which primarily involved business contact information.3 The company's internal network or products were not affected.3"
-SpyCloud,"Some of its Salesforce data was exposed, which the company believes to be ""standard customer relationship management fields."" No consumer data was believed to have been accessed.2"
-PagerDuty,The company's Salesforce instance was accessed.1 The available research notes do not specify the exact nature of the data compromised for this company.
-Tenable,The company's Salesforce instance was affected.4 The available research notes do not specify the exact nature of the data compromised for this company.
-Proofpoint,The company's Salesforce instance was affected.4 The available research notes do not specify the exact nature of the data compromised for this company.
-Rubrik,The company's Salesforce instance was affected.4 The available research notes do not specify the exact nature of the data compromised for this company.
+Cloudflare,"Customer support data, including logs, tokens, and passwords that customers may have shared, should be considered compromised.1 Cloudflare rotated 104 of its own API tokens as a precaution"
+Palo Alto Networks,"The incident was limited to its Salesforce environment.2 The exfiltrated data was ""mostly business contact information, internal sales account and basic case data."
+Zscaler,"Unauthorized actors accessed the company's Salesforce instance, which was restricted to ""commonly available business contact details"" and some support case content.""
+Tanium,"The threat actors had ""limited access"" to the company's Salesforce data, which was primarily common business contact information like names, business emails, and phone numbers."
+BeyondTrust,"Threat actors had ""limited access"" to their Salesforce data, which primarily involved business contact information.3 The company's internal network or products were not affected."
+SpyCloud,"Some of its Salesforce data was exposed, which the company believes to be ""standard customer relationship management fields."" No consumer data was believed to have been accessed."
+PagerDuty,The company's Salesforce instance was accessed. The available research notes do not specify the exact nature of the data compromised for this company.
+Tenable,The company's Salesforce instance was affected. The available research notes do not specify the exact nature of the data compromised for this company.
+Proofpoint,The company's Salesforce instance was affected. The available research notes do not specify the exact nature of the data compromised for this company.
+
+Rubrik,The company's Salesforce instance was affected. The available research notes do not specify the exact nature of the data compromised for this company.

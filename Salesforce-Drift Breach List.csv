@@ -8,8 +8,9 @@ SpyCloud,"Some of its Salesforce data was exposed, which the company believes to
 PagerDuty,The company's Salesforce instance was accessed. The available research notes do not specify the exact nature of the data compromised for this company.
 Tenable,The company's Salesforce instance was affected. The available research notes do not specify the exact nature of the data compromised for this company.
 Proofpoint,The company's Salesforce instance was affected. The available research notes do not specify the exact nature of the data compromised for this company.
-Rubrik,The company's Salesforce instance was affected. The available research notes do not specify the exact nature of the data compromised for this company.
+Rubrik,Certain information stored in Rubrik's Salesforce instance was accessed by an unauthorized user. The company found no evidence that the incident involved its software code, products, or customer data.
 Cyberark, The company was affected and the data accessed was limited to its Salesforce CRM which may include business contact information account and conversation metadata and summary fields. No customer data credentials or products were impacted.
+Okta, The company was not affected by the breach but did observe failed attempts to use a compromised Salesloft Drift token to access its Salesforce instance. Okta was a target based on indicators of compromise but was not successfully breached.
 
 
 

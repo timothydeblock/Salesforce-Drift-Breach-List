@@ -5,12 +5,13 @@ Zscaler,"Unauthorized actors accessed the company's Salesforce instance, which w
 Tanium,"The threat actors had ""limited access"" to the company's Salesforce data, which was primarily common business contact information like names, business emails, and phone numbers."
 BeyondTrust,"Threat actors had ""limited access"" to their Salesforce data, which primarily involved business contact information.3 The company's internal network or products were not affected."
 SpyCloud,"Some of its Salesforce data was exposed, which the company believes to be ""standard customer relationship management fields."" No consumer data was believed to have been accessed."
-PagerDuty,The company's Salesforce instance was accessed. The available research notes do not specify the exact nature of the data compromised for this company.
-Tenable,The company's Salesforce instance was affected. The available research notes do not specify the exact nature of the data compromised for this company.
-Proofpoint,The company's Salesforce instance was affected. The available research notes do not specify the exact nature of the data compromised for this company.
-Rubrik,Certain information stored in Rubrik's Salesforce instance was accessed by an unauthorized user. The company found no evidence that the incident involved its software code, products, or customer data.
-Cyberark, The company was affected and the data accessed was limited to its Salesforce CRM which may include business contact information account and conversation metadata and summary fields. No customer data credentials or products were impacted.
-Okta, The company was not affected by the breach but did observe failed attempts to use a compromised Salesloft Drift token to access its Salesforce instance. Okta was a target based on indicators of compromise but was not successfully breached.
+PagerDuty,"The company's Salesforce instance was accessed. The available research notes do not specify the exact nature of the data compromised for this company."
+Tenable,"The company's Salesforce instance was affected. The available research notes do not specify the exact nature of the data compromised for this company."
+Proofpoint,"The company's Salesforce instance was affected. The available research notes do not specify the exact nature of the data compromised for this company."
+Rubrik,"Certain information stored in Rubrik's Salesforce instance was accessed by an unauthorized user. The company found no evidence that the incident involved its software code, products, or customer data."
+Cyberark,"The company was affected and the data accessed was limited to its Salesforce CRM which may include business contact information account and conversation metadata and summary fields. No customer data credentials or products were impacted."
+Okta, "The company was not affected by the breach but did observe failed attempts to use a compromised Salesloft Drift token to access its Salesforce instance. Okta was a target based on indicators of compromise but was not successfully breached."
+
 
 
 

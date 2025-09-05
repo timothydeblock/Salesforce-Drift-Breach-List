@@ -9,7 +9,8 @@ PagerDuty,The company's Salesforce instance was accessed. The available research
 Tenable,The company's Salesforce instance was affected. The available research notes do not specify the exact nature of the data compromised for this company.
 Proofpoint,The company's Salesforce instance was affected. The available research notes do not specify the exact nature of the data compromised for this company.
 Rubrik,The company's Salesforce instance was affected. The available research notes do not specify the exact nature of the data compromised for this company.
-Cyberark, The company was affected, and the data accessed was limited to its Salesforce CRM, which may include business contact information, account and conversation metadata, and summary fields. No customer data, credentials, or products were impacted.
+Cyberark, The company was affected and the data accessed was limited to its Salesforce CRM which may include business contact information account and conversation metadata and summary fields. No customer data credentials or products were impacted.
+
 
 
 

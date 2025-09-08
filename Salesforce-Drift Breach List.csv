@@ -1,4 +1,5 @@
 Company,Nature of Compromise
+Full List, https://www.driftbreach.com/ 
 Cloudflare,"Customer support data, including logs, tokens, and passwords that customers may have shared, should be considered compromised.1 Cloudflare rotated 104 of its own API tokens as a precaution"
 Palo Alto Networks,"The incident was limited to its Salesforce environment.2 The exfiltrated data was ""mostly business contact information, internal sales account and basic case data."
 Zscaler,"Unauthorized actors accessed the company's Salesforce instance, which was restricted to ""commonly available business contact details"" and some support case content."
@@ -11,6 +12,7 @@ Proofpoint,"Hackers gained access to its Salesforce tenant and were able to view
 Rubrik,"Certain information stored in Rubrik's Salesforce instance was accessed by an unauthorized user. The company found no evidence that the incident involved its software code, products, or customer data."
 Cyberark,"The company was affected and the data accessed was limited to its Salesforce CRM which may include business contact information account and conversation metadata and summary fields. No customer data credentials or products were impacted."
 Okta, "The company was not affected by the breach but did observe failed attempts to use a compromised Salesloft Drift token to access its Salesforce instance. Okta was a target based on indicators of compromise but was not successfully breached."
+
 
 
 
